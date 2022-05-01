@@ -1,0 +1,28 @@
+H3{
+    text-align: center
+}
+
+
+div{
+    text-align: center
+}
+
+li{
+    text-align: center
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    
+}
+
+.table {
+    width: 50% !important; /*Importante manter o !important rs */
+    margin: auto;
+}
+
+header{
+    background: #0c0b0b;
+    padding: 20px 0;
+}
+
